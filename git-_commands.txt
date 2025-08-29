@@ -31,3 +31,5 @@
  1076  git commit -m "added git commands.txt"
  1077  clear
  1078  git push origin main
+
+this is some new changes 
