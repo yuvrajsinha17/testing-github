@@ -13,4 +13,21 @@
  1061  git commit -m "commited testing.py"
  1062  clear
  1063  git status
+ 1064  git history 
+ #
+  1063  git status
  1064  git history
+ 1065  history
+ 1066  clear
+ 1067  git remote add origin https://github.com/yuvrajsinha17/testing-github.git
+ 1068  git remote -v
+ 1069  git remote origin set-url https://@github.com/yuvrajsinha17/testing-github.git 
+ 1070  git remote set-url https://@github.com/yuvrajsinha17/testing-github.git
+ 1071  git remote set-url origin https://@github.com/yuvrajsinha17/testing-github.git
+ 1072  clear
+ 1073  git remote -v
+ 1074  git push origin main
+ 1075  git add git-_commands.txt
+ 1076  git commit -m "added git commands.txt"
+ 1077  clear
+ 1078  git push origin main
