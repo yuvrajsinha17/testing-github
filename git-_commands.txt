@@ -1,0 +1,16 @@
+1049  git push origin main
+ 1050  git add testing.py
+ 1051  clear
+ 1052  git init
+ 1053  git add testing.py
+ 1054  git status
+ 1055  echo ".DS_Store" >> .gitignore\ngit add .gitignore\ngit commit -m "Ignore .DS_Store files"\n
+ 1056  git rm --cached .DS_Store\ngit commit -m "Remove .DS_Store from repo"\n
+ 1057  git status
+ 1058  clera
+ 1059  clear
+ 1060  git status
+ 1061  git commit -m "commited testing.py"
+ 1062  clear
+ 1063  git status
+ 1064  git history
